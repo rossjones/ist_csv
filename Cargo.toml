@@ -1,0 +1,9 @@
+[package]
+name = "ist_csv"
+version = "0.1.0"
+authors = ["Ross Jones <ross@servercode.co.uk>"]
+
+[dependencies]
+csv = "0.14"
+regex = "0.2"
+lazy_static = "0.2"
